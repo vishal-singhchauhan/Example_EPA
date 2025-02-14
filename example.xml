@@ -1,0 +1,10 @@
+<Example>
+    <id>12</id>
+    <name>Sample Name</name>
+    <date>2023-10-01</date>
+    <description>No Value</description>
+    <validity>2023-12-31</validity>
+    <level>1</level>
+    <credit>10</credit>
+    <title>Sample Title</title>
+</Example>
